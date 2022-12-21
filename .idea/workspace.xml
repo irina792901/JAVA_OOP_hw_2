@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9e64b2d-4a5f-4379-96e5-3fea30350778" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comtroller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/StudentGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/StudentGroupIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/DataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/DataServiceGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/StudentGroupServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TeacherServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ReaderFromTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/WriterToTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/GroupView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/StudentGroupView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TeacherView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/UserView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671629042885</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1671633808013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671633808013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
